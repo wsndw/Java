@@ -1,3 +1,13 @@
 
 h
 8chapter02/src/main/java/cn/cq/jvm/CustomClassLoader.java,f\f\ff7eefc1b5e60c9b908198d8f448783a32a412ef
+A
+chapter04/pom.xml,f\8\f87350bbc10fdfd11b638c3102cc708009bcdf71
+e
+5chapter04/src/main/java/cn/cq/jvm/PCRegisterTest.java,e\6\e6d59a4f59925734480ca98a912580ef3a420433
+A
+chapter05/pom.xml,3\f\3f1aaaef4d329202988c2009be927bb3289d154e
+`
+0chapter05/src/main/java/cn/cq/jvm/StackTest.java,f\5\f58c68d31cfed94e42bd954b6f7285694ee65aca
+e
+5chapter05/src/main/java/cn/cq/jvm/StackErrorTest.java,2\8\28492513fa6979ed31e986cba02d84fba08270ed
