@@ -11,3 +11,5 @@ A
 0chapter05/src/main/java/cn/cq/jvm/StackTest.java,f\5\f58c68d31cfed94e42bd954b6f7285694ee65aca
 e
 5chapter05/src/main/java/cn/cq/jvm/StackErrorTest.java,2\8\28492513fa6979ed31e986cba02d84fba08270ed
+e
+5chapter05/src/main/java/cn/cq/jvm/StackFrameTest.java,e\e\eebfe1f3f9866bd585c841b593a70e7e3060cb7d

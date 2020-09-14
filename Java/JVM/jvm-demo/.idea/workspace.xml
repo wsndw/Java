@@ -29,7 +29,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="F:\software\apache-maven-3.3.9\repo" />
-        <option name="mavenHome" value="F:\software\apache-maven-3.3.9" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="F:\software\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -56,9 +56,9 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.DeadThreadTest">
+  <component name="RunManager" selected="Application.StackFrameTest">
     <configuration name="ClassInitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.ClassInitTest" />
       <module name="chapter02" />
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.lang.String" />
-      <module name="chapter02" />
+    <configuration name="StackFrameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.StackFrameTest" />
+      <module name="chapter05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.lang.*" />
+          <option name="PATTERN" value="cn.cq.jvm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,24 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackFrameTest" />
         <item itemvalue="Application.DeadThreadTest" />
         <item itemvalue="Application.ClinitTest1" />
         <item itemvalue="Application.ClassInitTest" />
         <item itemvalue="Application.CqTest" />
-        <item itemvalue="Application.String" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +162,7 @@
       <workItem from="1599701469448" duration="14077000" />
       <workItem from="1599725058949" duration="938000" />
       <workItem from="1599743058491" duration="288000" />
+      <workItem from="1600085127428" duration="1035000" />
     </task>
     <servers />
   </component>
@@ -185,30 +188,57 @@
     </state>
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1599701481400" />
     <state x="987" y="403" key="FileChooserDialogImpl/2560.354.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599743342671" />
-    <state width="1427" height="89" key="GridCell.Tab.0.bottom" timestamp="1599723822129">
+    <state width="1877" height="7" key="GridCell.Tab.0.bottom" timestamp="1600086162842">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1427" height="89" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1599723822129" />
-    <state width="1427" height="89" key="GridCell.Tab.0.center" timestamp="1599723822129">
+    <state width="1877" height="7" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1600086162842" />
+    <state width="1877" height="7" key="GridCell.Tab.0.center" timestamp="1600086162842">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1427" height="89" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1599723822129" />
-    <state width="1427" height="89" key="GridCell.Tab.0.left" timestamp="1599723822128">
+    <state width="1877" height="7" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1600086162842" />
+    <state width="1877" height="7" key="GridCell.Tab.0.left" timestamp="1600086162842">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1427" height="89" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1599723822128" />
-    <state width="1427" height="89" key="GridCell.Tab.0.right" timestamp="1599723822129">
+    <state width="1877" height="7" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1600086162842" />
+    <state width="1877" height="7" key="GridCell.Tab.0.right" timestamp="1600086162842">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1427" height="89" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1599723822129" />
-    <state x="816" y="328" key="SettingsEditor" timestamp="1599743346472">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="7" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1600086162842" />
+    <state width="1877" height="7" key="GridCell.Tab.1.bottom" timestamp="1600086162842">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="612" y="272" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1599719561626" />
+    <state width="1877" height="7" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1600086162842" />
+    <state width="1877" height="7" key="GridCell.Tab.1.center" timestamp="1600086162842">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="7" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1600086162842" />
+    <state width="1877" height="7" key="GridCell.Tab.1.left" timestamp="1600086162842">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="7" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1600086162842" />
+    <state width="1877" height="7" key="GridCell.Tab.1.right" timestamp="1600086162842">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="7" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1600086162842" />
+    <state x="749" y="448" key="SettingsEditor" timestamp="1600086070173">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="749" y="448" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1600086070173" />
     <state x="816" y="328" key="SettingsEditor/2560.354.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599743346472" />
-    <state x="1222" y="481" width="672" height="678" key="search.everywhere.popup" timestamp="1599723675939">
+    <state x="1222" y="481" width="672" height="678" key="search.everywhere.popup" timestamp="1600086032469">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1222" y="481" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1599723675939" />
+    <state x="1222" y="481" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1600086032469" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter05/src/main/java/cn/cq/jvm/StackFrameTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
