@@ -13,3 +13,5 @@ e
 5chapter05/src/main/java/cn/cq/jvm/StackErrorTest.java,2\8\28492513fa6979ed31e986cba02d84fba08270ed
 e
 5chapter05/src/main/java/cn/cq/jvm/StackFrameTest.java,e\e\eebfe1f3f9866bd585c841b593a70e7e3060cb7d
+i
+9chapter05/src/main/java/cn/cq/jvm/LocalVariablesTest.java,e\1\e111debdc87c228ab4cee236cb16b89f944ee307

@@ -1,0 +1,18 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ì÷Š8Ùº»É.
+T
+java:S1854"7Remove this useless assignment to local variable "num".(·ÚÒÓ8Ï·É.
+Z
+java:S1854"8Remove this useless assignment to local variable "date".(”Ç©šùÿÿÿÿ8Ùº»É.
+E
+java:S1481"(Remove this unused "num" local variable.(·ÚÒÓ8Ï·É.
+E
+java:S1068"(Remove this unused "cout" private field.(ÍÑáÎ8‡ø´É.
+U
+java:S1854"8Remove this useless assignment to local variable "test".(è‹óû8«€ºÉ.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²â…£ÿÿÿÿÿ8€±·É.
+F
+java:S1481")Remove this unused "test" local variable.(è‹óû8«€ºÉ.
+K
+java:S1481")Remove this unused "date" local variable.(”Ç©šùÿÿÿÿ8Ùº»É.
