@@ -15,3 +15,11 @@ e
 5chapter05/src/main/java/cn/cq/jvm/StackFrameTest.java,e\e\eebfe1f3f9866bd585c841b593a70e7e3060cb7d
 i
 9chapter05/src/main/java/cn/cq/jvm/LocalVariablesTest.java,e\1\e111debdc87c228ab4cee236cb16b89f944ee307
+Z
+*chapter05/src/main/java/cn/cq/jvm/Son.java,b\2\b23695d68c3eac70c3a687c3d1edccc4baee0116
+]
+-chapter05/src/main/java/cn/cq/jvm/Father.java,7\b\7bf00357b8b67808f28eb8b6b113bb9b8e184ac0
+[
++chapter05/src/main/java/cn/cq/jvm/Test.java,3\b\3b082e66579b7ebd8d6eeabd6cc5e71a7d758461
+g
+7chapter05/src/main/java/cn/cq/jvm/OperandStackTest.java,1\7\174c71369ccde37b8f35dda5aafd145098363623
