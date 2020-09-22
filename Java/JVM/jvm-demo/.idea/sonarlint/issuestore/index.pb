@@ -17,3 +17,11 @@ i
 9chapter05/src/main/java/cn/cq/jvm/LocalVariablesTest.java,e\1\e111debdc87c228ab4cee236cb16b89f944ee307
 g
 7chapter05/src/main/java/cn/cq/jvm/OperandStackTest.java,1\7\174c71369ccde37b8f35dda5aafd145098363623
+]
+-chapter05/src/main/java/cn/cq/jvm/Lambda.java,7\8\78e0538b03c3c585250bcbfbba67cf1a3056317a
+<
+jvm-demo.iml,0\f\0f2647b5a8d33af52ef253675949aa68383f3c9d
+Z
+*chapter05/src/main/java/cn/cq/jvm/Son.java,b\2\b23695d68c3eac70c3a687c3d1edccc4baee0116
+h
+8chapter05/src/main/java/cn/cq/jvm/StringBuilderTest.java,9\5\95998a5add2187198438edee6030dfa3062e8825

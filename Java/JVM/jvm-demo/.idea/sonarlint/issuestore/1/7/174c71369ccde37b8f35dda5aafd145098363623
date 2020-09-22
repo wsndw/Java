@@ -1,5 +1,5 @@
 
-R
-java:S1854"5Remove this useless assignment to local variable "k".(”ìà8ìò”ƒÊ.
-C
-java:S1481"&Remove this unused "k" local variable.(”ìà8ìò”ƒÊ.
+A
+java:S1481"&Remove this unused "k" local variable.(”ìà8ìò”ƒÊ.
+P
+java:S1854"5Remove this useless assignment to local variable "k".(”ìà8ìò”ƒÊ.

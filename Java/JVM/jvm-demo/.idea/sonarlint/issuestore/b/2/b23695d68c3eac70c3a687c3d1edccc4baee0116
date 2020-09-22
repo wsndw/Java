@@ -1,0 +1,15 @@
+
+[
+java:S2259"@A "NullPointerException" could be thrown; "in" is nullable here.(û®Ùù8µÌôşÊ.
+¡
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´˜»Òüÿÿÿÿ8µÌôşÊ.
+E
+java:S1172"*Remove this unused method parameter "age".(€¸œ8µÌôşÊ.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(Í¡ù.8µÌôşÊ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¯¹¨áşÿÿÿÿ8µÌôşÊ.
+U
+java:S2209"5Change this instance-reference to a static reference.(—á­ôøÿÿÿÿ8µÌôşÊ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÛşï8µÌôşÊ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(„´¾¹øÿÿÿÿ8µÌôşÊ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(’ƒËşÿÿÿÿ8µÌôşÊ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™äŸË8µÌôşÊ.

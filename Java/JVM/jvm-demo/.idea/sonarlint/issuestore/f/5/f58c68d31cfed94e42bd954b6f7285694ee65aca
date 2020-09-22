@@ -1,17 +1,17 @@
 
-W
-java:S1854"5Remove this useless assignment to local variable "j".(˜ÃÕôøÿÿÿÿ8‘ƒÊ.
-W
-java:S1854"5Remove this useless assignment to local variable "i".(¨Û•¨üÿÿÿÿ8‘ƒÊ.
-R
-java:S1854"5Remove this useless assignment to local variable "m".(Ú£ñ•8‘ƒÊ.
-R
-java:S1854"5Remove this useless assignment to local variable "k".(ÇÂş¾8‘ƒÊ.
-H
-java:S1481"&Remove this unused "i" local variable.(¨Û•¨üÿÿÿÿ8‘ƒÊ.
-H
-java:S1481"&Remove this unused "j" local variable.(˜ÃÕôøÿÿÿÿ8‘ƒÊ.
-C
-java:S1481"&Remove this unused "k" local variable.(ÇÂş¾8‘ƒÊ.
-C
-java:S1481"&Remove this unused "m" local variable.(Ú£ñ•8‘ƒÊ.
+U
+java:S1854"5Remove this useless assignment to local variable "j".(˜ÃÕôøÿÿÿÿ8‘ƒÊ.
+P
+java:S1854"5Remove this useless assignment to local variable "k".(ÇÂş¾8‘ƒÊ.
+F
+java:S1481"&Remove this unused "i" local variable.(¨Û•¨üÿÿÿÿ8‘ƒÊ.
+A
+java:S1481"&Remove this unused "m" local variable.(Ú£ñ•8‘ƒÊ.
+P
+java:S1854"5Remove this useless assignment to local variable "m".(Ú£ñ•8‘ƒÊ.
+F
+java:S1481"&Remove this unused "j" local variable.(˜ÃÕôøÿÿÿÿ8‘ƒÊ.
+U
+java:S1854"5Remove this useless assignment to local variable "i".(¨Û•¨üÿÿÿÿ8‘ƒÊ.
+A
+java:S1481"&Remove this unused "k" local variable.(ÇÂş¾8‘ƒÊ.

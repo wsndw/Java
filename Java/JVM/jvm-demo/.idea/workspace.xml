@@ -124,15 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -168,7 +166,8 @@
       <workItem from="1600236057820" duration="1302000" />
       <workItem from="1600307428371" duration="4407000" />
       <workItem from="1600390710526" duration="4357000" />
-      <workItem from="1600655529096" duration="7220000" />
+      <workItem from="1600655529096" duration="7979000" />
+      <workItem from="1600744529360" duration="1209000" />
     </task>
     <servers />
   </component>
@@ -202,22 +201,22 @@
     </state>
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1600414936096" />
     <state x="987" y="403" key="FileChooserDialogImpl/2560.354.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599743342671" />
-    <state width="1877" height="229" key="GridCell.Tab.0.bottom" timestamp="1600675035804">
+    <state width="1877" height="229" key="GridCell.Tab.0.bottom" timestamp="1600691133370">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1600675035804" />
-    <state width="1877" height="229" key="GridCell.Tab.0.center" timestamp="1600675035804">
+    <state width="1877" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1600691133370" />
+    <state width="1877" height="229" key="GridCell.Tab.0.center" timestamp="1600691133370">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="229" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1600675035804" />
-    <state width="1877" height="229" key="GridCell.Tab.0.left" timestamp="1600675035804">
+    <state width="1877" height="229" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1600691133370" />
+    <state width="1877" height="229" key="GridCell.Tab.0.left" timestamp="1600691133369">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="229" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1600675035804" />
-    <state width="1877" height="229" key="GridCell.Tab.0.right" timestamp="1600675035804">
+    <state width="1877" height="229" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1600691133369" />
+    <state width="1877" height="229" key="GridCell.Tab.0.right" timestamp="1600691133370">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="229" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1600675035804" />
+    <state width="1877" height="229" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1600691133370" />
     <state width="1877" height="7" key="GridCell.Tab.1.bottom" timestamp="1600086162842">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -243,6 +242,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="784" height="1158" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1920.1160@0.0.1920.1160" timestamp="1600219142331" />
+    <state x="1073" y="243" key="new project wizard" timestamp="1600744886526">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1073" y="243" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1600744886526" />
     <state x="1222" y="481" width="672" height="678" key="search.everywhere.popup" timestamp="1600674422276">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

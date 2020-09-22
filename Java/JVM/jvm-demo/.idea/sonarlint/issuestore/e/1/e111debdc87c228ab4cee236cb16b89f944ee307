@@ -1,45 +1,45 @@
 
-d
-java:S1226*"BIntroduce a new variable instead of reusing the parameter "dateP".(Ä¿âÔüÿÿÿÿ8¯ÿ‚Ê.
-J
-java:S1481?"(Remove this unused "num" local variable.(“®´Üúÿÿÿÿ8õ‡‚Ê.
-W	java:S125A"<This block of commented-out lines of code should be removed.(‚ÒÍ)8õ‡‚Ê.
-F
-java:S1481")Remove this unused "test" local variable.(è‹óû8¯ÿ‚Ê.
-M
-java:S1481-"+Remove this unused "gender" local variable.(ä€Èúÿÿÿÿ8¯ÿ‚Ê.
-W
-java:S1854;"5Remove this useless assignment to local variable "c".(çÄ…ùÿÿÿÿ8¯ÿ‚Ê.
-X	java:S125"<This block of commented-out lines of code should be removed.(‡¿ôÇ8¯ÿ‚Ê.
-T	java:S106&"9Replace this use of System.out or System.err by a logger.(ì§ÕV8¯ÿ‚Ê.
-T
-java:S1854"7Remove this useless assignment to local variable "num".(·ÚÒÓ8¯ÿ‚Ê.
-H
-java:S1481,"+Remove this unused "weight" local variable.(·ÖÅ³8¯ÿ‚Ê.
-E
-java:S1481"(Remove this unused "num" local variable.(·ÚÒÓ8¯ÿ‚Ê.
-K
-java:S1481%")Remove this unused "info" local variable.(ƒ÷µ¾øÿÿÿÿ8¯ÿ‚Ê.
-Q
-java:S18549"5Remove this useless assignment to local variable "b".(îò²8¯ÿ‚Ê.
-K
-java:S1481")Remove this unused "date" local variable.(”Ç©šùÿÿÿÿ8¯ÿ‚Ê.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(ì§ÕV8¯ÿ‚Ê.
+Z
+java:S1854":Remove this useless assignment to local variable "gender".(ä€Èúÿÿÿÿ8¯ÿ‚Ê.
+S
+java:S1854"8Remove this useless assignment to local variable "test".(è‹óû8¯ÿ‚Ê.
 O
-java:S11997"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¯ÿ‚Ê.
-W
-java:S1854,":Remove this useless assignment to local variable "weight".(·ÖÅ³8¯ÿ‚Ê.
-Z
-java:S1854"8Remove this useless assignment to local variable "date".(”Ç©šùÿÿÿÿ8¯ÿ‚Ê.
-\
-java:S1854-":Remove this useless assignment to local variable "gender".(ä€Èúÿÿÿÿ8¯ÿ‚Ê.
-C
-java:S14818"&Remove this unused "b" local variable.(°ò‹8¯ÿ‚Ê.
-H
-java:S1481;"&Remove this unused "c" local variable.(çÄ…ùÿÿÿÿ8¯ÿ‚Ê.
-_
-java:S1226+"BIntroduce a new variable instead of reusing the parameter "name2".(Í«Î°8¯ÿ‚Ê.
-Z
-java:S1854%"8Remove this useless assignment to local variable "info".(ƒ÷µ¾øÿÿÿÿ8¯ÿ‚Ê.
+java:S1854"5Remove this useless assignment to local variable "b".(îò²8¯ÿ‚Ê.
 U
-java:S1854"8Remove this useless assignment to local variable "test".(è‹óû8¯ÿ‚Ê.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ì÷Š8¯ÿ‚Ê.
+java:S1854":Remove this useless assignment to local variable "weight".(·ÖÅ³8¯ÿ‚Ê.
+U
+java:S1854"5Remove this useless assignment to local variable "c".(çÄ…ùÿÿÿÿ8¯ÿ‚Ê.
+U	java:S125"<This block of commented-out lines of code should be removed.(‚ÒÍ)8õ‡‚Ê.
+D
+java:S1481")Remove this unused "test" local variable.(è‹óû8¯ÿ‚Ê.
+X
+java:S1854"8Remove this useless assignment to local variable "date".(”Ç©šùÿÿÿÿ8¯ÿ‚Ê.
+C
+java:S1481"(Remove this unused "num" local variable.(·ÚÒÓ8¯ÿ‚Ê.
+V	java:S125"<This block of commented-out lines of code should be removed.(‡¿ôÇ8¯ÿ‚Ê.
+A
+java:S1481"&Remove this unused "b" local variable.(°ò‹8¯ÿ‚Ê.
+F
+java:S1481"+Remove this unused "weight" local variable.(·ÖÅ³8¯ÿ‚Ê.
+]
+java:S1226"BIntroduce a new variable instead of reusing the parameter "name2".(Í«Î°8¯ÿ‚Ê.
+b
+java:S1226"BIntroduce a new variable instead of reusing the parameter "dateP".(Ä¿âÔüÿÿÿÿ8¯ÿ‚Ê.
+R
+java:S1854"7Remove this useless assignment to local variable "num".(·ÚÒÓ8¯ÿ‚Ê.
+K
+java:S1481"+Remove this unused "gender" local variable.(ä€Èúÿÿÿÿ8¯ÿ‚Ê.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì÷Š8¯ÿ‚Ê.
+F
+java:S1481"&Remove this unused "c" local variable.(çÄ…ùÿÿÿÿ8¯ÿ‚Ê.
+H
+java:S1481"(Remove this unused "num" local variable.(“®´Üúÿÿÿÿ8õ‡‚Ê.
+I
+java:S1481")Remove this unused "info" local variable.(ƒ÷µ¾øÿÿÿÿ8¯ÿ‚Ê.
+M
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¯ÿ‚Ê.
+I
+java:S1481")Remove this unused "date" local variable.(”Ç©šùÿÿÿÿ8¯ÿ‚Ê.
+X
+java:S1854"8Remove this useless assignment to local variable "info".(ƒ÷µ¾øÿÿÿÿ8¯ÿ‚Ê.
