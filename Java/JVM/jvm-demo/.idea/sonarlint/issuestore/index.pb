@@ -25,3 +25,7 @@ Z
 *chapter05/src/main/java/cn/cq/jvm/Son.java,b\2\b23695d68c3eac70c3a687c3d1edccc4baee0116
 h
 8chapter05/src/main/java/cn/cq/jvm/StringBuilderTest.java,9\5\95998a5add2187198438edee6030dfa3062e8825
+A
+chapter06/pom.xml,c\d\cdf9f9d8232408cd900cc48d2c2432a97b35a53c
+c
+3chapter06/src/main/java/cn/cq/jvm/IHaveNatives.java,0\1\01d5f9a05b09f8df3fa55e4ebea6346c46b8ab75

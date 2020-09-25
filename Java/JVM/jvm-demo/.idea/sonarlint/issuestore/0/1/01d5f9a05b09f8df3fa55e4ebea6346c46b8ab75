@@ -1,0 +1,12 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¨äš«ûÿÿÿÿ8¼ÃÚË.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¯ÇØ8¼ÃÚË.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„§Ë£ÿÿÿÿÿ8¼ÃÚË.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨äš«ûÿÿÿÿ8¼ÃÚË.
+N
+java:S1144",Remove this unused private "Native3" method.(Æü•Ñûÿÿÿÿ8¼ÃÚË.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æü•Ñûÿÿÿÿ8¼ÃÚË.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Æü•Ñûÿÿÿÿ8¼ÃÚË.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(„§Ë£ÿÿÿÿÿ8¼ÃÚË.
