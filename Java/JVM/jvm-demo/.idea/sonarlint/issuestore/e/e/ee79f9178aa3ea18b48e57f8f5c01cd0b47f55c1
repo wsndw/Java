@@ -1,0 +1,18 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "arr".(ÑËÎ°øÿÿÿÿ8©Ö–£Ì.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°©ŸÉ8’”£Ì.
+S
+java:S1854"6Remove this useless assignment to local variable "s2".(üóÙ8·š•£Ì.
+S
+java:S1854"6Remove this useless assignment to local variable "s1".(ºùüÈ8Üæ”£Ì.
+D
+java:S1481"'Remove this unused "s1" local variable.(ºùüÈ8Üæ”£Ì.
+U
+java:S1854"8Remove this useless assignment to local variable "arr1".(ğî™Ü8©Ö–£Ì.
+F
+java:S1481")Remove this unused "arr1" local variable.(ğî™Ü8©Ö–£Ì.
+J
+java:S1481"(Remove this unused "arr" local variable.(ÑËÎ°øÿÿÿÿ8©Ö–£Ì.
+D
+java:S1481"'Remove this unused "s2" local variable.(üóÙ8·š•£Ì.

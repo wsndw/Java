@@ -29,3 +29,11 @@ A
 chapter06/pom.xml,c\d\cdf9f9d8232408cd900cc48d2c2432a97b35a53c
 c
 3chapter06/src/main/java/cn/cq/jvm/IHaveNatives.java,0\1\01d5f9a05b09f8df3fa55e4ebea6346c46b8ab75
+A
+chapter08/pom.xml,a\4\a4f74feca9ba0f1878f57d28773b106bc80538ee
+_
+/chapter08/src/main/java/cn/cq/jvm/HeapDemo.java,6\0\60f5c2f5bf519d19b8f8cb900b502e0c94f0eb00
+`
+0chapter08/src/main/java/cn/cq/jvm/HeapDemo1.java,9\f\9fb99d242c4d5be457ded8ef0526b16c6c716b44
+a
+1chapter08/src/main/java/cn/cq/jvm/SimpleHeap.java,e\e\ee79f9178aa3ea18b48e57f8f5c01cd0b47f55c1
