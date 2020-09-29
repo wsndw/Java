@@ -18,7 +18,7 @@
       <module name="chapter01" target="1.5" />
       <module name="chapter02" target="8" />
       <module name="chapter04" target="1.5" />
-      <module name="chapter05" target="1.5" />
+      <module name="chapter05" target="8" />
       <module name="chapter06" target="1.5" />
       <module name="chapter08" target="1.5" />
       <module name="jvm-demo" target="1.5" />

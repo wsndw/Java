@@ -37,3 +37,11 @@ _
 0chapter08/src/main/java/cn/cq/jvm/HeapDemo1.java,9\f\9fb99d242c4d5be457ded8ef0526b16c6c716b44
 a
 1chapter08/src/main/java/cn/cq/jvm/SimpleHeap.java,e\e\ee79f9178aa3ea18b48e57f8f5c01cd0b47f55c1
+g
+7chapter08/src/main/java/cn/cq/jvm/HeapSpaceInitial.java,a\1\a12d7fdc1373364dfa727710a61c239fa24aff0d
+^
+.chapter08/src/main/java/cn/cq/jvm/OOMTest.java,9\6\9622e1becb3fc6cebd8d08a8e035af45e50131fb
+g
+7chapter08/src/main/java/cn/cq/jvm/EdenSurvivorTest.java,0\6\061766f38fb101f90dd3c2dd02fed486be0b3d7d
+g
+7chapter08/src/main/java/cn/cq/jvm/HeapInstanceTest.java,0\a\0ac11684558151970fe0a9929cb4de0774a4aa92
