@@ -1,9 +1,9 @@
 
-6
-java:S3626"Remove this redundant jump.(ûÁİ…8îğıÊ.
-K
-java:S1172"+Remove this unused method parameter "func".(ƒ–ãâÿÿÿÿÿ8îğıÊ.
-n
-java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ùá¤İ8îğıÊ.
-s
-java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¼„—¤ÿÿÿÿÿ8îğıÊ.
+M
+java:S1172"+Remove this unused method parameter "func".(ƒ–ãâÿÿÿÿÿ8îğıÊ.
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ùá¤İ8îğıÊ.
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8îğıÊ.
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¼„—¤ÿÿÿÿÿ8îğıÊ.

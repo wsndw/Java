@@ -45,3 +45,7 @@ g
 7chapter08/src/main/java/cn/cq/jvm/EdenSurvivorTest.java,0\6\061766f38fb101f90dd3c2dd02fed486be0b3d7d
 g
 7chapter08/src/main/java/cn/cq/jvm/HeapInstanceTest.java,0\a\0ac11684558151970fe0a9929cb4de0774a4aa92
+g
+7chapter08/src/main/java/cn/cq/jvm/YoungOldAreaTest.java,5\1\51e65b5d08ae786958bac4dee7af7a342c85569b
+c
+3chapter08/src/main/java/cn/cq/jvm/TLABArgsTest.java,a\b\ab20529a3d943c26b49f4675d787c517a0e4b18f
