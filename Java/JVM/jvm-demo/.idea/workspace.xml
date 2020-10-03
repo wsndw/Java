@@ -6,11 +6,37 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="816744a0-2f55-466f-bca9-31d8d9277c05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85f514a63fe8a10bbe29e6163c59df4a319c586d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/chapter08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/main/java/cn/cq/jvm/EscapeAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/main/java/cn/cq/jvm/ScalarReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/main/java/cn/cq/jvm/StackAllocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/src/main/java/cn/cq/jvm/SynchronizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_堆/堆.md" beforeDir="false" afterPath="$PROJECT_DIR$/../08_堆/堆.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/061766f38fb101f90dd3c2dd02fed486be0b3d7d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/061766f38fb101f90dd3c2dd02fed486be0b3d7d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f2647b5a8d33af52ef253675949aa68383f3c9d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51e65b5d08ae786958bac4dee7af7a342c85569b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51e65b5d08ae786958bac4dee7af7a342c85569b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +57,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="F:\software\apache-maven-3.3.9\repo" />
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
-        <option name="userSettingsFile" value="F:\software\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="E:\software\apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\software\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -45,9 +71,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/jprofiler11/bin/jprofiler.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter08" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,21 +83,34 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.cq.jvm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TLABArgsTest">
+  <component name="RunManager" selected="Application.ScalarReplace">
     <configuration name="EdenSurvivorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.EdenSurvivorTest" />
       <module name="chapter08" />
       <option name="VM_PARAMETERS" value="-Xms600m -Xmx600m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cq.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscapeAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.EscapeAnalysis" />
+      <module name="chapter08" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.cq.jvm.*" />
@@ -153,9 +193,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.Son" />
-      <module name="chapter05" />
+    <configuration name="ScalarReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.ScalarReplace" />
+      <module name="chapter08" />
+      <option name="VM_PARAMETERS" value="-Xmx100m -Xms100m -XX:+DoEscapeAnalysis -XX:+PrintGC -XX:+EliminateAllocations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.cq.jvm.*" />
@@ -166,9 +207,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackFrameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.StackFrameTest" />
-      <module name="chapter05" />
+    <configuration name="StackAllocation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.StackAllocation" />
+      <module name="chapter08" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms256m -XX:+DoEscapeAnalysis -XX:+PrintGCDetails" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.cq.jvm.*" />
@@ -206,15 +248,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -225,19 +265,20 @@
       <item itemvalue="Application.HeapDemo1" />
       <item itemvalue="Application.HeapDemo" />
       <item itemvalue="Application.YoungOldAreaTest" />
-      <item itemvalue="Application.Son" />
-      <item itemvalue="Application.StackFrameTest" />
+      <item itemvalue="Application.StackAllocation" />
       <item itemvalue="Application.OOMTest" />
       <item itemvalue="Application.EdenSurvivorTest" />
       <item itemvalue="Application.TLABArgsTest" />
+      <item itemvalue="Application.EscapeAnalysis" />
+      <item itemvalue="Application.ScalarReplace" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TLABArgsTest" />
+        <item itemvalue="Application.ScalarReplace" />
+        <item itemvalue="Application.EscapeAnalysis" />
         <item itemvalue="Application.EdenSurvivorTest" />
+        <item itemvalue="Application.TLABArgsTest" />
         <item itemvalue="Application.OOMTest" />
-        <item itemvalue="Application.Son" />
-        <item itemvalue="Application.StackFrameTest" />
       </list>
     </recent_temporary>
   </component>
@@ -269,11 +310,27 @@
       <workItem from="1601272034505" duration="5301000" />
       <workItem from="1601341600862" duration="3392000" />
       <workItem from="1601346917244" duration="3547000" />
+      <workItem from="1601689888090" duration="418000" />
+      <workItem from="1601690333799" duration="1910000" />
+      <workItem from="1601694511118" duration="2709000" />
+      <workItem from="1601708957336" duration="1883000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -281,13 +338,15 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="880" y="157" key="#Project_Structure" timestamp="1599709530654">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="326" y="0" key="#Project_Structure" timestamp="1601689897621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="326" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1601689897621" />
     <state x="880" y="157" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1599709530654" />
-    <state x="828" y="234" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601366570409">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="471" y="147" width="895" height="578" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601711261294">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="471" y="147" width="895" height="578" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601711261294" />
     <state x="828" y="234" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1601366570409" />
     <state x="1245" y="288" width="437" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1599704679411">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -305,26 +364,31 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1283" y="612" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1600418756422" />
-    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1601347010701">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="526" y="141" key="FileChooserDialogImpl" timestamp="1601694690443">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="526" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601694690443" />
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1601347010701" />
     <state x="987" y="403" key="FileChooserDialogImpl/2560.354.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599743342671" />
-    <state width="1399" height="409" key="GridCell.Tab.0.bottom" timestamp="1601371693856">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1021" height="88" key="GridCell.Tab.0.bottom" timestamp="1601711106101">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1021" height="88" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601711106101" />
     <state width="1399" height="409" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693856" />
-    <state width="1399" height="409" key="GridCell.Tab.0.center" timestamp="1601371693855">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1021" height="88" key="GridCell.Tab.0.center" timestamp="1601711106100">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1021" height="88" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601711106100" />
     <state width="1399" height="409" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693855" />
-    <state width="1399" height="409" key="GridCell.Tab.0.left" timestamp="1601371693855">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1021" height="88" key="GridCell.Tab.0.left" timestamp="1601711106100">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1021" height="88" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601711106100" />
     <state width="1399" height="409" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693855" />
-    <state width="1399" height="409" key="GridCell.Tab.0.right" timestamp="1601371693855">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1021" height="88" key="GridCell.Tab.0.right" timestamp="1601711106100">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1021" height="88" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601711106100" />
     <state width="1399" height="409" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693855" />
     <state width="1399" height="586" key="GridCell.Tab.1.bottom" timestamp="1601371693851">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -342,18 +406,28 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1399" height="586" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693851" />
-    <state x="445" y="162" key="SettingsEditor" timestamp="1601346845289">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="477" y="67" key="NewModule_or_Project.wizard" timestamp="1601694697489">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="477" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1601694697489" />
+    <state x="317" y="0" key="SettingsEditor" timestamp="1601710780793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601710780793" />
     <state x="445" y="162" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1601346845289" />
     <state x="816" y="328" key="SettingsEditor/2560.354.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599743346472" />
+    <state x="439" y="207" key="cloudConfig.PluginsDialog" timestamp="1601690209235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="207" key="cloudConfig.PluginsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601690209235" />
     <state width="784" height="1158" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1600219142331">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="784" height="1158" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1920.1160@0.0.1920.1160" timestamp="1600219142331" />
-    <state x="1073" y="243" key="new project wizard" timestamp="1601019739188">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="115" y="0" key="new project wizard" timestamp="1601694682566">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1601694682566" />
     <state x="1073" y="243" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1601019739188" />
     <state x="1222" y="481" width="672" height="678" key="search.everywhere.popup" timestamp="1600674422276">
       <screen x="0" y="0" width="1920" height="1160" />
