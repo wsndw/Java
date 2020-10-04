@@ -26,18 +26,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="816744a0-2f55-466f-bca9-31d8d9277c05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85f514a63fe8a10bbe29e6163c59df4a319c586d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/chapter08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/main/java/cn/cq/jvm/EscapeAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/main/java/cn/cq/jvm/ScalarReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/main/java/cn/cq/jvm/StackAllocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/main/java/cn/cq/jvm/SynchronizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08_堆/堆.md" beforeDir="false" afterPath="$PROJECT_DIR$/../08_堆/堆.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/061766f38fb101f90dd3c2dd02fed486be0b3d7d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/061766f38fb101f90dd3c2dd02fed486be0b3d7d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f2647b5a8d33af52ef253675949aa68383f3c9d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51e65b5d08ae786958bac4dee7af7a342c85569b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51e65b5d08ae786958bac4dee7af7a342c85569b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/693834ecb5a0948972cd46f2a97b87846c84d6ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc20ae4bd2ab7c6b4371714b93fc2b8bfdf42db0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/chapter09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter09/src/main/java/cn/cq/jvm/OOMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/EdenSurvivorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/EdenSurvivorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/EscapeAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/EscapeAnalysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/HeapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/HeapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/HeapDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/HeapDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/HeapInstanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/HeapInstanceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/HeapSpaceInitial.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/HeapSpaceInitial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/OOMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/OOMTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/Picture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/ScalarReplace$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/ScalarReplace$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/ScalarReplace.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/ScalarReplace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/SimpleHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/SimpleHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/StackAllocation$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/StackAllocation$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/StackAllocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/StackAllocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/SynchronizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/SynchronizedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/TLABArgsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/TLABArgsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/YoungOldAreaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter08/target/classes/cn/cq/jvm/YoungOldAreaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,14 +100,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.cq.jvm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScalarReplace">
+  <component name="RunManager" selected="Application.OOMTest">
     <configuration name="EdenSurvivorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.EdenSurvivorTest" />
       <module name="chapter08" />
@@ -181,8 +195,8 @@
     </configuration>
     <configuration name="OOMTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.OOMTest" />
-      <module name="chapter08" />
-      <option name="VM_PARAMETERS" value="-Xms600m -Xmx600m" />
+      <module name="chapter09" />
+      <option name="VM_PARAMETERS" value="-XX:MetaspaceSize=10m -XX:MaxMetaspaceSize=10m" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.cq.jvm.*" />
@@ -248,13 +262,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -266,19 +282,19 @@
       <item itemvalue="Application.HeapDemo" />
       <item itemvalue="Application.YoungOldAreaTest" />
       <item itemvalue="Application.StackAllocation" />
-      <item itemvalue="Application.OOMTest" />
       <item itemvalue="Application.EdenSurvivorTest" />
       <item itemvalue="Application.TLABArgsTest" />
       <item itemvalue="Application.EscapeAnalysis" />
       <item itemvalue="Application.ScalarReplace" />
+      <item itemvalue="Application.OOMTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOMTest" />
         <item itemvalue="Application.ScalarReplace" />
         <item itemvalue="Application.EscapeAnalysis" />
         <item itemvalue="Application.EdenSurvivorTest" />
         <item itemvalue="Application.TLABArgsTest" />
-        <item itemvalue="Application.OOMTest" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +329,10 @@
       <workItem from="1601689888090" duration="418000" />
       <workItem from="1601690333799" duration="1910000" />
       <workItem from="1601694511118" duration="2709000" />
-      <workItem from="1601708957336" duration="1883000" />
+      <workItem from="1601708957336" duration="2644000" />
+      <workItem from="1601780580322" duration="2189000" />
+      <workItem from="1601782808987" duration="69000" />
+      <workItem from="1601797407648" duration="702000" />
     </task>
     <servers />
   </component>
@@ -338,23 +357,24 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="326" y="0" key="#Project_Structure" timestamp="1601689897621">
+    <state x="326" y="0" key="#Project_Structure" timestamp="1601782389518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="326" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1601689897621" />
+    <state x="326" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1601782389518" />
     <state x="880" y="157" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1599709530654" />
-    <state x="471" y="147" width="895" height="578" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601711261294">
+    <state x="471" y="25" width="895" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601797487252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="471" y="147" width="895" height="578" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601711261294" />
+    <state x="471" y="25" width="895" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601797487252" />
     <state x="828" y="234" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1601366570409" />
     <state x="1245" y="288" width="437" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1599704679411">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1245" y="288" width="437" height="569" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1599704679411" />
-    <state x="1103" y="381" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601020039000">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="785" y="239" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601782498877">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="785" y="239" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1601782498877" />
     <state x="1103" y="381" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1601020039000" />
     <state x="640" y="314" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600235890885">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -364,31 +384,31 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1283" y="612" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1600418756422" />
-    <state x="526" y="141" key="FileChooserDialogImpl" timestamp="1601694690443">
+    <state x="526" y="141" key="FileChooserDialogImpl" timestamp="1601782184765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="526" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601694690443" />
+    <state x="526" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601782184765" />
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1601347010701" />
     <state x="987" y="403" key="FileChooserDialogImpl/2560.354.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599743342671" />
-    <state width="1021" height="88" key="GridCell.Tab.0.bottom" timestamp="1601711106101">
+    <state width="1323" height="401" key="GridCell.Tab.0.bottom" timestamp="1601799990327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1021" height="88" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601711106101" />
+    <state width="1323" height="401" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601799990327" />
     <state width="1399" height="409" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693856" />
-    <state width="1021" height="88" key="GridCell.Tab.0.center" timestamp="1601711106100">
+    <state width="1323" height="401" key="GridCell.Tab.0.center" timestamp="1601799990327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1021" height="88" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601711106100" />
+    <state width="1323" height="401" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601799990327" />
     <state width="1399" height="409" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693855" />
-    <state width="1021" height="88" key="GridCell.Tab.0.left" timestamp="1601711106100">
+    <state width="1323" height="401" key="GridCell.Tab.0.left" timestamp="1601799990327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1021" height="88" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601711106100" />
+    <state width="1323" height="401" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601799990327" />
     <state width="1399" height="409" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693855" />
-    <state width="1021" height="88" key="GridCell.Tab.0.right" timestamp="1601711106100">
+    <state width="1323" height="401" key="GridCell.Tab.0.right" timestamp="1601799990327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1021" height="88" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601711106100" />
+    <state width="1323" height="401" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601799990327" />
     <state width="1399" height="409" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693855" />
     <state width="1399" height="586" key="GridCell.Tab.1.bottom" timestamp="1601371693851">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -410,10 +430,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="477" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1601694697489" />
-    <state x="317" y="0" key="SettingsEditor" timestamp="1601710780793">
+    <state x="317" y="0" key="SettingsEditor" timestamp="1601782781967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="317" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601710780793" />
+    <state x="317" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601782781967" />
     <state x="445" y="162" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1601346845289" />
     <state x="816" y="328" key="SettingsEditor/2560.354.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599743346472" />
     <state x="439" y="207" key="cloudConfig.PluginsDialog" timestamp="1601690209235">
@@ -424,14 +444,15 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="784" height="1158" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1920.1160@0.0.1920.1160" timestamp="1600219142331" />
-    <state x="115" y="0" key="new project wizard" timestamp="1601694682566">
+    <state x="382" y="80" width="883" height="558" key="new project wizard" timestamp="1601782223987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1601694682566" />
+    <state x="382" y="80" width="883" height="558" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1601782223987" />
     <state x="1073" y="243" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1601019739188" />
-    <state x="1222" y="481" width="672" height="678" key="search.everywhere.popup" timestamp="1600674422276">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="869" y="302" width="672" height="426" key="search.everywhere.popup" timestamp="1601781022378">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="869" y="302" width="672" height="426" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601781022378" />
     <state x="1222" y="481" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1600674422276" />
   </component>
   <component name="XDebuggerManager">

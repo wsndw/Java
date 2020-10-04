@@ -51,3 +51,13 @@ e
 5chapter08/src/main/java/cn/cq/jvm/EscapeAnalysis.java,8\5\85f514a63fe8a10bbe29e6163c59df4a319c586d
 f
 6chapter08/src/main/java/cn/cq/jvm/StackAllocation.java,7\6\7672a07fe8fb057997198da24c2cb027b8abec70
+g
+7chapter08/src/main/java/cn/cq/jvm/SynchronizedTest.java,6\9\693834ecb5a0948972cd46f2a97b87846c84d6ae
+d
+4chapter08/src/main/java/cn/cq/jvm/ScalarReplace.java,f\c\fc20ae4bd2ab7c6b4371714b93fc2b8bfdf42db0
+A
+chapter09/pom.xml,6\f\6f8e9ea4658dbff29da150a44448a13f3408206f
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+^
+.chapter09/src/main/java/cn/cq/jvm/OOMTest.java,5\4\540a8c41792538ec23bcb06ca358bb66567d8795
