@@ -72,7 +72,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\maven\repository" />
-        <option name="mavenHome" value="E:\software\apache-maven-3.5.4" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="E:\software\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -88,7 +88,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter08" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter09/src/main/java/cn/cq/jvm" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -97,7 +97,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -106,22 +107,11 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.cq.jvm" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\Java\Java\JVM\jvm-demo\chapter09\src\main\java\cn\cq\jvm" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.OOMTest">
-    <configuration name="EdenSurvivorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.EdenSurvivorTest" />
-      <module name="chapter08" />
-      <option name="VM_PARAMETERS" value="-Xms600m -Xmx600m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.cq.jvm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodAreaTest">
     <configuration name="EscapeAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.EscapeAnalysis" />
       <module name="chapter08" />
@@ -193,6 +183,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodAreaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.MethodAreaTest" />
+      <module name="chapter09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cq.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodInnerStrucTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.MethodInnerStrucTest" />
+      <module name="chapter09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cq.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OOMTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.OOMTest" />
       <module name="chapter09" />
@@ -235,19 +251,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TLABArgsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.TLABArgsTest" />
-      <module name="chapter08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.cq.jvm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="YoungOldAreaTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.cq.jvm.YoungOldAreaTest" />
       <module name="chapter08" />
@@ -262,6 +265,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.HeapInstanceTest" />
       <item itemvalue="Application.HeapSpaceInitial" />
@@ -269,19 +285,19 @@
       <item itemvalue="Application.HeapDemo" />
       <item itemvalue="Application.YoungOldAreaTest" />
       <item itemvalue="Application.StackAllocation" />
-      <item itemvalue="Application.EdenSurvivorTest" />
-      <item itemvalue="Application.TLABArgsTest" />
       <item itemvalue="Application.EscapeAnalysis" />
       <item itemvalue="Application.ScalarReplace" />
       <item itemvalue="Application.OOMTest" />
+      <item itemvalue="Application.MethodInnerStrucTest" />
+      <item itemvalue="Application.MethodAreaTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodAreaTest" />
+        <item itemvalue="Application.MethodInnerStrucTest" />
         <item itemvalue="Application.OOMTest" />
         <item itemvalue="Application.ScalarReplace" />
         <item itemvalue="Application.EscapeAnalysis" />
-        <item itemvalue="Application.EdenSurvivorTest" />
-        <item itemvalue="Application.TLABArgsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -313,9 +329,7 @@
       <workItem from="1601272034505" duration="5301000" />
       <workItem from="1601341600862" duration="3392000" />
       <workItem from="1601346917244" duration="3547000" />
-<<<<<<< HEAD
       <workItem from="1602210007185" duration="607000" />
-=======
       <workItem from="1601689888090" duration="418000" />
       <workItem from="1601690333799" duration="1910000" />
       <workItem from="1601694511118" duration="2709000" />
@@ -323,7 +337,8 @@
       <workItem from="1601780580322" duration="2189000" />
       <workItem from="1601782808987" duration="69000" />
       <workItem from="1601797407648" duration="702000" />
->>>>>>> 7e5c2cbaa70b70151fe0b876082932c7f9b313eb
+      <workItem from="1602226285500" duration="4388000" />
+      <workItem from="1603092279372" duration="3047000" />
     </task>
     <servers />
   </component>
@@ -358,10 +373,10 @@
     </state>
     <state x="471" y="25" width="895" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601797487252" />
     <state x="828" y="234" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1601366570409" />
-    <state x="1245" y="288" width="437" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1599704679411">
+    <state x="1245" y="288" width="437" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1602233221017">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1245" y="288" width="437" height="569" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1599704679411" />
+    <state x="1245" y="288" width="437" height="569" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1602233221017" />
     <state x="785" y="239" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601782498877">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -375,32 +390,32 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1283" y="612" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1600418756422" />
-    <state x="526" y="141" key="FileChooserDialogImpl" timestamp="1601782184765">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1602223323914">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="526" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601782184765" />
-    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1601347010701" />
+    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1602223323914" />
     <state x="987" y="403" key="FileChooserDialogImpl/2560.354.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599743342671" />
-    <state width="1323" height="401" key="GridCell.Tab.0.bottom" timestamp="1601799990327">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1705" height="408" key="GridCell.Tab.0.bottom" timestamp="1603093016053">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1323" height="401" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601799990327" />
-    <state width="1399" height="409" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693856" />
-    <state width="1323" height="401" key="GridCell.Tab.0.center" timestamp="1601799990327">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1705" height="408" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603093016053" />
+    <state width="1705" height="408" key="GridCell.Tab.0.center" timestamp="1603093016053">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1323" height="401" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601799990327" />
-    <state width="1399" height="409" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693855" />
-    <state width="1323" height="401" key="GridCell.Tab.0.left" timestamp="1601799990327">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1705" height="408" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603093016053" />
+    <state width="1705" height="408" key="GridCell.Tab.0.left" timestamp="1603093016053">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1323" height="401" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601799990327" />
-    <state width="1399" height="409" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693855" />
-    <state width="1323" height="401" key="GridCell.Tab.0.right" timestamp="1601799990327">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1705" height="408" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603093016053" />
+    <state width="1705" height="408" key="GridCell.Tab.0.right" timestamp="1603093016053">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1323" height="401" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601799990327" />
-    <state width="1399" height="409" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1601371693855" />
+    <state width="1705" height="408" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603093016053" />
     <state width="1399" height="586" key="GridCell.Tab.1.bottom" timestamp="1601371693851">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -421,11 +436,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="477" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1601694697489" />
-    <state x="317" y="0" key="SettingsEditor" timestamp="1601782781967">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="445" y="162" key="SettingsEditor" timestamp="1602223583758">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="317" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601782781967" />
-    <state x="445" y="162" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1601346845289" />
+    <state x="445" y="162" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1602223583758" />
     <state x="816" y="328" key="SettingsEditor/2560.354.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599743346472" />
     <state x="439" y="207" key="cloudConfig.PluginsDialog" timestamp="1601690209235">
       <screen x="0" y="0" width="1366" height="728" />

@@ -1,0 +1,11 @@
+
+q
+java:S1104"OMake num a static final constant or non-public and provide accessors if needed.(¹ñ”´ùÿÿÿÿ8öÊ§ßÐ.
+D
+java:S1068"'Remove this unused "str" private field.(ó«äÍ8öÊ§ßÐ.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ë²Ä‘8˜ÕÉäÐ.
+v
+java:S1210:"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ä×¶É8¥æ²ßÐ.
+b
+java:S1128"@Remove this unused import 'jdk.nashorn.internal.ir.LiteralNode'.(¨½¦„üÿÿÿÿ8žš¦äÐ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÊŽ–ùÿÿÿÿ8‡ßªßÐ.
