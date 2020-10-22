@@ -22,7 +22,7 @@
       <module name="chapter05" target="8" />
       <module name="chapter06" target="8" />
       <module name="chapter08" target="8" />
-      <module name="chapter09" target="8" />
+      <module name="chapter09" target="7" />
       <module name="jvm-demo" target="8" />
     </bytecodeTargetLevel>
   </component>

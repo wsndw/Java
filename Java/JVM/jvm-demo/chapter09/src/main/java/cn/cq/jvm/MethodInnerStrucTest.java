@@ -1,14 +1,13 @@
 package cn.cq.jvm;
 
-import jdk.nashorn.internal.ir.LiteralNode;
-
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * MethodInnerStrucTest <br>
- *  方法区结构
+ * 方法区结构
+ *
  * @author CQ <br>
  * @version 1.0 <br>
  * @date 2020-10-09 13:46 <br>
@@ -17,24 +16,26 @@ public class MethodInnerStrucTest extends Object implements Comparable<String>, 
     //属性
     public int num = 10;
     private static String str = "测试方法的内部结构";
+
     //构造器
     //方法
-    public void test1(){
+    public void test1() {
         int count = 20;
-        System.out.println("count = "+count);
+        System.out.println("count = " + count);
     }
-    public static int test2(int cal){
+
+    public static int test2(int cal) {
         int result = 0;
         try {
             int value = 30;
-            result = value/cal;
+            result = value / cal;
         } catch (Exception e) {
             e.printStackTrace();
         }
         return result;
     }
 
-    public void test3(){
+    public void test3() {
         List<Test> testList = new ArrayList<>();
         Test test = new Test();
         test.setA(0);
@@ -51,7 +52,7 @@ public class MethodInnerStrucTest extends Object implements Comparable<String>, 
             methodInnerStrucTest.test3();
         }
         long end = System.currentTimeMillis();
-        System.out.println("耗时："+(end-start)+"ms");
+        System.out.println("耗时：" + (end - start) + "ms");
     }
 
     @Override
@@ -59,7 +60,8 @@ public class MethodInnerStrucTest extends Object implements Comparable<String>, 
         return 0;
     }
 }
-class Test{
+
+class Test {
     int a;
     int b;
 

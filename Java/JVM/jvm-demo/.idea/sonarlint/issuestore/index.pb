@@ -65,3 +65,7 @@ G
 chapter08/chapter08.iml,0\c\0c75f6947417623bfd76a0a77fe1363ff68c1297
 k
 ;chapter09/src/main/java/cn/cq/jvm/MethodInnerStrucTest.java,e\b\eb030a63632d1ad8c2e9c794ee87e9b1ddf7ea0e
+Z
+*chapter09/src/main/java/cn/cq/jvm/test.txt,e\2\e201be6834929dab29428216b7403e2fd0caf5fe
+e
+5chapter09/src/main/java/cn/cq/jvm/MethodAreaTest.java,7\f\7f80cd42aa17e2c2b5efdff0bba02252022ffac1

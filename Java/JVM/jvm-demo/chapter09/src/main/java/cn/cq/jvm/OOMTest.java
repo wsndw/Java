@@ -1,16 +1,20 @@
+/*
 package cn.cq.jvm;
 
 import jdk.internal.org.objectweb.asm.ClassWriter;
 import jdk.internal.org.objectweb.asm.Opcodes;
 
+*/
 /**
  * jdk6中：
  * -XX:PermSize=5m -xx:MaxPermSize=5m
- *
+ * <p>
  * jdk8中：
  * -XX:MetaspaceSize=10m -XX:MaxMetaspaceSize=10m
+ *
  * @author CQ
- */
+ *//*
+
 public class OOMTest extends ClassLoader {
     public static void main(String[] args) {
         int j = 0;
@@ -32,3 +36,4 @@ public class OOMTest extends ClassLoader {
         }
     }
 }
+*/
