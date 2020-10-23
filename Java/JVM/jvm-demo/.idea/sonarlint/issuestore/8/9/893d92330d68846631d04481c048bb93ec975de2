@@ -1,0 +1,8 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "localObj".(Û§·¸8í©øÔ.
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÜÒ¯‡8¦¹¬øÔ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8í©øÔ.
+J
+java:S1481"-Remove this unused "localObj" local variable.(Û§·¸8í©øÔ.

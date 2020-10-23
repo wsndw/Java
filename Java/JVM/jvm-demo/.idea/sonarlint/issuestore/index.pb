@@ -69,3 +69,9 @@ Z
 *chapter09/src/main/java/cn/cq/jvm/test.txt,e\2\e201be6834929dab29428216b7403e2fd0caf5fe
 e
 5chapter09/src/main/java/cn/cq/jvm/MethodAreaTest.java,7\f\7f80cd42aa17e2c2b5efdff0bba02252022ffac1
+e
+5chapter09/src/main/java/cn/cq/jvm/MethodAreaDemo.java,0\c\0c2f0437c6d45964cfdb76d9af2d2ac5b7e9da20
+d
+4chapter09/src/main/java/cn/cq/jvm/StaticObjTest.java,8\9\893d92330d68846631d04481c048bb93ec975de2
+f
+6chapter09/src/main/java/cn/cq/jvm/StaticFieldTest.java,a\d\adc0848bf14dd1c5d55a259492dc1c259a7ea3ac
